@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harleysstory or other known as Harley Bradford
 - 👀 I’m interested in Information Technology in Web & App Development, Business and Mathematics.
 - 🌱 I’m currently learning C#, Laravel and PHP
-- 💞️ I’m looking to collaborate on projects that can teach me and take me on for an internship.
+- 💞️ I’m looking to collaborate on projects that I can gain valuable experience and knowledge from.
 - 📫 How to reach me:
     Business Email: harleybradfordbusiness@gmail.com
     Phone Number: #447751226978
