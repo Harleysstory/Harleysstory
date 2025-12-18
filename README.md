@@ -2,7 +2,7 @@
 
 # Hello, I am Harley Bradford
 
-**Marketing Lead @ Subtyped.me | Blending Narrative and Systems Insight**
+**Independent Consultant @ Bradford Independent Consultant │ Business Strategy, Analysis and Process Mapping**
 
 ---
 
