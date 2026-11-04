@@ -17,14 +17,12 @@ My background combines **business, technology, digital development, marketing an
 
 ## 🚀 Featured repositories
 
-<a href="https://github.com/Harleysstory/gy-local-app">
-  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Harleysstory&repo=gy-local-app&theme=tokyonight&show_icons=true" alt="GY Local repo card" />
-</a>
-<a href="https://github.com/Harleysstory/bradfordindependent">
-  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Harleysstory&repo=bradfordindependent&theme=tokyonight&show_icons=true" alt="Bradford Independent repo card" />
-</a>
+### 🌊 [GY Local](https://github.com/Harleysstory/gy-local-app) — the everything-local app for Great Yarmouth
 
-### 🌊 GY Local — the everything-local app for Great Yarmouth
+![Stars](https://img.shields.io/github/stars/Harleysstory/gy-local-app?style=for-the-badge&logo=github&color=164E78)
+![Forks](https://img.shields.io/github/forks/Harleysstory/gy-local-app?style=for-the-badge&logo=github&color=164E78)
+![Top language](https://img.shields.io/github/languages/top/Harleysstory/gy-local-app?style=for-the-badge&logo=typescript&logoColor=white&color=00A6A6)
+![Last commit](https://img.shields.io/github/last-commit/Harleysstory/gy-local-app/main?style=for-the-badge&color=F2B134&label=last%20commit)
 
 **[Live app](https://gy-local-app-bradford-independent.vercel.app)** · my flagship project, and proof of what I consult on:
 
@@ -33,7 +31,11 @@ My background combines **business, technology, digital development, marketing an
 - 🗓️ **Events & local news** auto-scraped and self-updating via Vercel cron — no human in the loop
 - 🔐 **Three-layer data architecture** — world data baked at build, personal data on-device only, shared data in Turso
 
-### 🏛️ Bradford Independent — my consultancy site
+### 🏛️ [Bradford Independent](https://github.com/Harleysstory/bradfordindependent) — my consultancy site
+
+![Stars](https://img.shields.io/github/stars/Harleysstory/bradfordindependent?style=for-the-badge&logo=github&color=164E78)
+![Top language](https://img.shields.io/github/languages/top/Harleysstory/bradfordindependent?style=for-the-badge&logo=html5&logoColor=white&color=00A6A6)
+![Last commit](https://img.shields.io/github/last-commit/Harleysstory/bradfordindependent/main?style=for-the-badge&color=F2B134&label=last%20commit)
 
 A dependency-free static site: semantic HTML, hand-written CSS design system, vanilla JS, and a stdlib-only Python build script. Deployed on Netlify with CSP, honeypot spam protection and WCAG-compliant accessibility.
 
@@ -47,17 +49,10 @@ A dependency-free static site: semantic HTML, hand-written CSS design system, va
 
 ## 📊 GitHub stats
 
-<a href="https://github.com/Harleysstory">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harleysstory&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-</a>
+![Followers](https://img.shields.io/github/followers/Harleysstory?style=for-the-badge&logo=github&color=164E78)
+
 <a href="https://github.com/Harleysstory">
   <img height="165" src="https://streak-stats.demolab.com/?user=Harleysstory&theme=tokyonight&hide_border=true&locale=en_GB" alt="GitHub streak" />
-</a>
-
-## 🗣️ Most used languages
-
-<a href="https://github.com/Harleysstory">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harleysstory&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </a>
 
 ## 🐍 Contribution graph
