@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harley%20Bradford&fontSize=42&fontColor=fff&animation=fadeIn&desc=Business%20analyst%20·%20systems%20thinker%20·%20£0/month%20engineer&descSize=18&descAlignY=68" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=00A6A6&center=true&vCenter=true&random=false&width=640&lines=Systems+%26+operational+improvement+for+startups;Business+%C2%B7+technology+%C2%B7+systems+%C2%B7+strategy;I+build+real+things+on+%C2%A30%2Fmonth;Great+Yarmouth%2C+Norfolk+%F0%9F%8C%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=00A6A6&center=true&vCenter=true&random=false&width=900&lines=Systems+%26+operational+improvement+for+startups;Business+%C2%B7+technology+%C2%B7+systems+%C2%B7+strategy;I+build+real+things+on+%C2%A30%2Fmonth;Great+Yarmouth%2C+Norfolk+%F0%9F%8C%8A" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -18,10 +18,10 @@ My background combines **business, technology, digital development, marketing an
 ## 🚀 Featured repositories
 
 <a href="https://github.com/Harleysstory/gy-local-app">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Harleysstory&repo=gy-local-app&theme=tokyonight&show_icons=true" alt="GY Local repo card" />
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Harleysstory&repo=gy-local-app&theme=tokyonight&show_icons=true" alt="GY Local repo card" />
 </a>
 <a href="https://github.com/Harleysstory/bradfordindependent">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Harleysstory&repo=bradfordindependent&theme=tokyonight&show_icons=true" alt="Bradford Independent repo card" />
+  <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Harleysstory&repo=bradfordindependent&theme=tokyonight&show_icons=true" alt="Bradford Independent repo card" />
 </a>
 
 ### 🌊 GY Local — the everything-local app for Great Yarmouth
@@ -48,16 +48,16 @@ A dependency-free static site: semantic HTML, hand-written CSS design system, va
 ## 📊 GitHub stats
 
 <a href="https://github.com/Harleysstory">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harleysstory&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harleysstory&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 </a>
 <a href="https://github.com/Harleysstory">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harleysstory&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Harleysstory&theme=tokyonight&hide_border=true&locale=en_GB" alt="GitHub streak" />
 </a>
 
-## 🏆 Trophies
+## 🗣️ Most used languages
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harleysstory&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" width="100%"/>
+<a href="https://github.com/Harleysstory">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harleysstory&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </a>
 
 ## 🐍 Contribution graph
