@@ -19,8 +19,6 @@ My background combines **business, technology, digital development, marketing an
 
 ### 🌊 [GY Local](https://github.com/Harleysstory/gy-local-app) — the everything-local app for Great Yarmouth
 
-![Stars](https://img.shields.io/github/stars/Harleysstory/gy-local-app?style=for-the-badge&logo=github&color=164E78)
-![Forks](https://img.shields.io/github/forks/Harleysstory/gy-local-app?style=for-the-badge&logo=github&color=164E78)
 ![Top language](https://img.shields.io/github/languages/top/Harleysstory/gy-local-app?style=for-the-badge&logo=typescript&logoColor=white&color=00A6A6)
 ![Last commit](https://img.shields.io/github/last-commit/Harleysstory/gy-local-app/main?style=for-the-badge&color=F2B134&label=last%20commit)
 
@@ -33,7 +31,6 @@ My background combines **business, technology, digital development, marketing an
 
 ### 🏛️ [Bradford Independent](https://github.com/Harleysstory/bradfordindependent) — my consultancy site
 
-![Stars](https://img.shields.io/github/stars/Harleysstory/bradfordindependent?style=for-the-badge&logo=github&color=164E78)
 ![Top language](https://img.shields.io/github/languages/top/Harleysstory/bradfordindependent?style=for-the-badge&logo=html5&logoColor=white&color=00A6A6)
 ![Last commit](https://img.shields.io/github/last-commit/Harleysstory/bradfordindependent/main?style=for-the-badge&color=F2B134&label=last%20commit)
 
