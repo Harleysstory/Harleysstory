@@ -19,11 +19,8 @@ My background combines **business, technology, digital development, marketing an
 
 ### 🌊 [GY Local](https://github.com/Harleysstory/gy-local-app) — the everything-local app for Great Yarmouth
 
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-15-0B1120?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Turso](https://img.shields.io/badge/Turso-libSQL-e2e8f0?style=for-the-badge&logoColor=1E2B57)
-![Push](https://img.shields.io/badge/notifications-VAPID%20web%20push-00A6A6?style=for-the-badge)
-<!-- The repo is private, so live GitHub badges can't read it. If you make it public, swap these static badges back for: https://img.shields.io/github/languages/top/Harleysstory/gy-local-app and https://img.shields.io/github/last-commit/Harleysstory/gy-local-app/main -->
+![Top language](https://img.shields.io/github/languages/top/Harleysstory/gy-local-app?style=for-the-badge&logo=typescript&logoColor=white&color=00A6A6)
+![Last commit](https://img.shields.io/github/last-commit/Harleysstory/gy-local-app/master?style=for-the-badge&color=F2B134&label=last%20commit)
 
 **[Live app](https://gy-local-app-bradford-independent.vercel.app)** · my flagship project, and proof of what I consult on:
 
