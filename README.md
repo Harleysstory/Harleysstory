@@ -17,17 +17,31 @@ My background combines **business, technology, digital development, marketing an
 
 ## 🚀 Featured repositories
 
+*Three proof points: **build** (GY Local) · **analyse** (the Liberu audit) · **communicate** (the consultancy site).*
+
 ### 🌊 [GY Local](https://github.com/Harleysstory/gy-local-app) — the everything-local app for Great Yarmouth
 
 ![Top language](https://img.shields.io/github/languages/top/Harleysstory/gy-local-app?style=for-the-badge&logo=typescript&logoColor=white&color=00A6A6)
 ![Last commit](https://img.shields.io/github/last-commit/Harleysstory/gy-local-app/master?style=for-the-badge&color=F2B134&label=last%20commit)
 
-**[Live app](https://gy-local-app-bradford-independent.vercel.app)** · my flagship project, and proof of what I consult on:
+**[Live app](https://gy-local-app.vercel.app)** · my flagship project, and proof of what I consult on:
 
 - 🗺️ **2,184 mapped places** from Overture Maps, colour-coded and searchable
 - 🔔 **A free daily morning brief** pushed to subscribers' phones — VAPID web push, no accounts, no third-party service
 - 🗓️ **Events & local news** auto-scraped and self-updating via Vercel cron — no human in the loop
 - 🔐 **Three-layer data architecture** — world data baked at build, personal data on-device only, shared data in Turso
+
+### 📋 [Liberu Software Ecosystem Audit](https://github.com/Harleysstory/liberusoftware-audit) — independent technical & commercial due diligence
+
+![Last commit](https://img.shields.io/github/last-commit/Harleysstory/liberusoftware-audit/main?style=for-the-badge&color=F2B134&label=last%20commit)
+![Final verdict](https://img.shields.io/badge/final_verdict-CONDITIONAL_GO-B45309?style=for-the-badge)
+
+**[Full report](https://github.com/Harleysstory/liberusoftware-audit/blob/main/Liberu-Ecosystem-Audit.md)** · the analysis half of what I consult on:
+
+- 🔍 **~2,395 repositories measured** at the filesystem level — a full fleet scan, not a sample
+- 🧪 **Every finding evidence-backed** — composer audit, PHPStan level 9, Pest test suites and secret scans, actually executed
+- 📐 **8 audit phases** — engineering quality, security, UI/UX, SaaS readiness, operations, commercial viability
+- ✅ **A usable verdict** — conditional go, with a prioritised, effort-estimated remediation roadmap
 
 ### 🏛️ [Bradford Independent](https://github.com/Harleysstory/bradfordindependent) — my consultancy site
 
@@ -66,7 +80,7 @@ A dependency-free static site: semantic HTML, hand-written CSS design system, va
 [![Website](https://img.shields.io/badge/bradfordindependent.com-1E2B57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bradfordindependent.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harleysstory-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleysstory/)
 [![Email](https://img.shields.io/badge/harley%40bradfordindependent.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harley@bradfordindependent.com)
-[![GY Local](https://img.shields.io/badge/🌊_live_app-GY_Local-00A6A6?style=for-the-badge)](https://gy-local-app-bradford-independent.vercel.app)
+[![GY Local](https://img.shields.io/badge/🌊_live_app-GY_Local-00A6A6?style=for-the-badge)](https://gy-local-app.vercel.app)
 
 ---
 
